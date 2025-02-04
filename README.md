@@ -26,7 +26,7 @@ Os habré mandado por email un par de documentos de ayuda para la elaboración d
 
 ## BIBLIOGRAFÍA BÁSICA  
 
-Podéis descargar algunos de los artículos sobre desigualdad económica publicados por mí en el repositorio de la [UNED](https://e-spacio.uned.es/entities/person/f6e40d0d-5a55-41dc-8125-497b2431c3c1) y en [Google Scholar](https://scholar.google.es/citations?user=gZF8-pUAAAAJ&hl=es). Debajo se incluyen una serie de artículos científicos que constituyen una primera base de lectura para esta línea de TFG. No obstante, los estudiantes deberán hacer una búsqueda sobre el tema concreto elegido empleando las herramientas de la Biblioteca de la UNED. También os recomiendo leer los capítulos introductorios de tesis sobre desigualdad económica.  
+Podéis descargar algunos de los artículos sobre desigualdad económica y percepción social en el repositorio de la [UNED](https://e-spacio.uned.es/entities/person/f6e40d0d-5a55-41dc-8125-497b2431c3c1) y en [Google Scholar](https://scholar.google.es/citations?user=gZF8-pUAAAAJ&hl=es). Debajo se incluyen una serie de artículos científicos que constituyen una primera base de lectura para esta línea de TFG. No obstante, los estudiantes deberán hacer una búsqueda sobre el tema concreto elegido empleando las herramientas de la Biblioteca de la UNED. También os recomiendo leer los capítulos introductorios de tesis sobre desigualdad económica.  
 
 ### Artículos recomendados:  
 
