@@ -26,13 +26,13 @@ Os he mandado por email un par de documentos de ayuda para la elaboración del T
 
 ## BIBLIOGRAFÍA BÁSICA  
 
-Podéis descargar algunos de los artículos sobre desigualdad económica publicados por mí en el repositorio de la UNED. Debajo se incluyen una serie de artículos científicos que constituyen una primera base de lectura para esta línea de TFG. No obstante, los estudiantes deberán hacer una búsqueda sobre el tema concreto elegido empleando las herramientas de la Biblioteca de la UNED. También os recomiendo leer los capítulos introductorios de tesis sobre desigualdad económica.  
+Podéis descargar algunos de los artículos sobre desigualdad económica publicados por mí en el repositorio de la [UNED](https://e-spacio.uned.es/entities/person/f6e40d0d-5a55-41dc-8125-497b2431c3c1) y en [Google Scholar](https://scholar.google.es/citations?user=gZF8-pUAAAAJ&hl=es). Debajo se incluyen una serie de artículos científicos que constituyen una primera base de lectura para esta línea de TFG. No obstante, los estudiantes deberán hacer una búsqueda sobre el tema concreto elegido empleando las herramientas de la Biblioteca de la UNED. También os recomiendo leer los capítulos introductorios de tesis sobre desigualdad económica.  
 
 ### Artículos recomendados:  
 
-- [Buttrick & Oishi (2017)](https://doi.org/10.1017/S0047279417000935)  
-- [Del Fresno et al. (2021)](https://doi.org/10.1080/1369118X.2021.1942953)  
-- [García Castro et al. (2021)](https://doi.org/10.1007/s12144-021-01413-9)  
+- [Buttrick & Oishi (2017)](https://doi.org/10.1111/spc3.12304)
+- [Del Fresno et al. (2021)](https://doi.org/10.1002/casp.2632)  
+- [García Castro et al. (2021)](https://doi.org/10.1016/j.jesp.2020.104019) 
 - [García Sánchez et al. (2024)](https://doi.org/10.1007/s11205-024-03306-x)
 - [Melita et al. (2023)](https://doi.org/10.1111/bjso.12641)
 - [Moreno-Bella et al. (2020)](https://www.cienciacognitiva.org/?p=1916)
