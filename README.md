@@ -44,13 +44,13 @@ Podéis descargar algunos de los artículos sobre desigualdad económica publica
 
 ## Fechas importantes:
 **CONVOCATORIA DE JUNIO:**
-Fecha límite entrega PROPUESTA: 13 marzo
-Fecha límite entrega PROPUESTA (en caso de que no fuera aceptada en el plazo anterior): del 4 al 11 abril
-Fecha límite entrega TFG: 16 mayo
+- Fecha límite entrega PROPUESTA: 13 marzo
+- Fecha límite entrega PROPUESTA (en caso de que no fuera aceptada en el plazo anterior): del 4 al 11 abril
+- Fecha límite entrega TFG: 16 mayo
 
 **CONVOCATORIA DE SEPTIEMBRE:**
-Fecha límite entrega PROPUESTA: 2 julio
-Fecha límite entrega TFG: 2 septiembre
+- Fecha límite entrega PROPUESTA: 2 julio
+- Fecha límite entrega TFG: 2 septiembre
 
 **Las entregas se realizarán a través del curso virtual de la asignatura (ÁGORA)**
 
