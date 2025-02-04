@@ -61,11 +61,14 @@ Podéis descargar algunos de los artículos sobre desigualdad económica y perce
 **1.	Límites en la Generación y Redacción de Contenidos**
 - La IA puede ser utilizada para estructurar o generar ideas, pero el contenido principal del TFG debe ser redactado en su **totalidad** por el estudiante.
 - Queda prohibido el uso de IA para parafrasear o reescribir contenido ajeno, ya que esto comprometería la originalidad del trabajo.
+
 **2.	Uso Ético de IA en Análisis de Datos**
 - Si el estudiante usa IA para proponer los análisis de datos, deberá demostrar comprensión de las técnicas y análisis, así como una interpretación crítica de los resultados que se podrían obtener si tuviera datos reales.
 - **Justificación del análisis con IA:** El TFG debe incluir una explicación de por qué fue necesario el uso de IA en el análisis y cómo se ajusta al objetivo del trabajo.
+
 **3.	Compromiso de Originalidad y Revisión de Plagio**
 - Todos los TFG pasarán por el programa antiplagio para la detección de plagio y creación de contenido por parte de una IA.
+
 **4.	Documento de Transparencia y Declaración de Uso de IA**
 
 Todo estudiante que emplee herramientas de inteligencia artificial (IA) en cualquier fase del TFG debe especificar de forma detallada:
