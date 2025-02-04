@@ -70,6 +70,7 @@ Todo estudiante que emplee herramientas de inteligencia artificial (IA) en cualq
 - **En qué fase y/o partes del TFM se utilizó la IA:** ya sea en la fase de recopilación de información, análisis de datos, organización de ideas o redacción.
 - **Los términos o preguntas formuladas a la IA:** el estudiante debe incluir una lista específica de las consultas, preguntas o instrucciones dadas a la IA durante el desarrollo del trabajo.
 - **Resultados obtenidos con IA:** los estudiantes deben documentar los resultados generados por la IA y explicar cómo fueron utilizados o adaptados en el TFM.
+  
 **Declaración de uso:** Además, cada estudiante deberá firmar un **documento de declaración del uso de IA** que será enviado por email a la profesora Eva Moreno Bella. Este documento confirmará que los resultados obtenidos han sido empleados de manera ética y en conformidad con estas normas. El documento debe ser firmado por el/la estudiante.
 
 **Todos los TFGs pasarán por el programa antiplagio para la detección de plagio y creación de contenido por parte de una IA**
