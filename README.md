@@ -71,3 +71,9 @@ Todo estudiante que emplee herramientas de inteligencia artificial (IA) en cualq
 - **Resultados obtenidos con IA:** los estudiantes deben documentar los resultados generados por la IA y explicar cómo fueron utilizados o adaptados en el TFG.
   
 **Declaración de uso:** Además, cada estudiante deberá firmar un **documento de declaración del uso de IA** que será enviado por email a la profesora Eva Moreno Bella. Este documento confirmará que los resultados obtenidos han sido empleados de manera [ética](https://www.uned.es/universidad/inicio/institucional/areas-direccion/vicerrectorados/innovacion/iaeducativa.html) y en conformidad con estas normas. La profesora facilitará al alumnado este documento, el cual debe ser firmado por el/la estudiante antes de la fecha límite de entrega del TFG en la convocatoria correspondiente.
+
+### **Recursos para citas y referencias en formato APA**  
+
+Podéis acceder a los tutoriales de la biblioteca de la UNED, donde encontraréis información sobre las [normas APA](https://www.youtube.com/watch?v=gTURFhZkoIs) y los [errores más frecuentes](https://www.youtube.com/watch?v=Hxagy2iZDng) al citar referencias.  
+
+Además, es recomendable utilizar un [gestor bibliográfico gratuito](https://www.youtube.com/watch?v=4CaVpuyFeB4) como Zotero o Mendeley, ya que facilitan la generación automática de citas y referencias, lo que ayuda a ahorrar tiempo y reducir errores. Sin embargo, es importante revisar siempre las citas generadas para asegurarse de que sean correctas.
