@@ -22,4 +22,4 @@ Una vez realizado este trabajo de lectura y estudio, se debe plantear una pregun
 
 ## DOCUMENTOS DE AYUDA PARA LA ELABORACIÓN DEL TFG  
 
-Debajo encontraréis documentos útiles en la elaboración de vuestro TFG:  
+Os he mandado por email un par de documentos de ayuda para la elaboración del TFG  
