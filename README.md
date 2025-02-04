@@ -54,3 +54,24 @@ Podéis descargar algunos de los artículos sobre desigualdad económica publica
 
 **Las entregas se realizarán a través del curso virtual de la asignatura (ÁGORA)**
 
+## Normas para el Uso de Inteligencia Artificial en el TFM
+**1.	Límites en la Generación y Redacción de Contenidos**
+- La IA puede ser utilizada para estructurar o generar ideas, pero el contenido principal del TFM debe ser redactado en su **totalidad** por el estudiante.
+- Queda prohibido el uso de IA para parafrasear o reescribir contenido ajeno, ya que esto comprometería la originalidad del trabajo.
+**2.	Uso Ético de IA en Análisis de Datos**
+- Si el estudiante usa IA para análisis de datos, deberá demostrar comprensión de las técnicas aplicadas y una interpretación crítica de los resultados. La metodología deberá reflejar de forma clara el papel de la IA en el análisis.
+- **Justificación del análisis con IA:** El TFM debe incluir una explicación de por qué fue necesario el uso de IA en el análisis y cómo se ajusta al objetivo del trabajo.
+**3.	Compromiso de Originalidad y Revisión de Plagio**
+- Todos los TFM deben pasar por el programa antiplagio para la detección de plagio y creación de contenido por parte de una IA. Cualquier trabajo que no cumpla con esta revisión no será evaluado.
+- **Control durante el curso:** Se exigirá la entrega periódica de avances para asegurar que el trabajo es original y refleja el aprendizaje y esfuerzo del estudiante, sin depender completamente de IA.
+**4.	Documento de Transparencia y Declaración de Uso de IA**
+
+Todo estudiante que emplee herramientas de inteligencia artificial (IA) en cualquier fase del TFM debe especificar de forma detallada:
+- **En qué fase y/o partes del TFM se utilizó la IA:** ya sea en la fase de recopilación de información, análisis de datos, organización de ideas o redacción.
+- **Los términos o preguntas formuladas a la IA:** el estudiante debe incluir una lista específica de las consultas, preguntas o instrucciones dadas a la IA durante el desarrollo del trabajo.
+- **Resultados obtenidos con IA:** los estudiantes deben documentar los resultados generados por la IA y explicar cómo fueron utilizados o adaptados en el TFM.
+**Declaración de uso:** Además, cada estudiante deberá firmar un **documento de declaración del uso de IA** que será enviado por email a la profesora Eva Moreno Bella. Este documento confirmará que los resultados obtenidos han sido empleados de manera ética y en conformidad con estas normas. El documento debe ser firmado por el/la estudiante.
+
+**Todos los TFGs pasarán por el programa antiplagio para la detección de plagio y creación de contenido por parte de una IA**
+**El documento de declaración del uso de IA se facilitará al alumnado a través de email**
+
