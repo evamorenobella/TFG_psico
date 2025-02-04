@@ -8,7 +8,7 @@ En esta línea de TFG se trabajarán principalmente las consecuencias psicosocia
 
 # IMPORTANTE: Antes de comenzar a trabajar debe leer con mucho detenimiento la Guía de Estudio de la Asignatura de TFG. Especialmente debe leer los apartados Metodología y Plan de Trabajo. Debe tener presente las indicaciones sobre formato, presentación y fechas límites que se especifican en dicha guía. Los trabajos que no se atiendan a las directrices que se indican no serán corregidos o serán evaluados negativamente.
 
-OBJETIVOS DE ESTA LÍNEA DE TFG. ¿QUÉ SE ESPERA DEL TRABAJO DE LOS ESTUDIANTES EN ESTA LÍNEA?
+# OBJETIVOS DE ESTA LÍNEA DE TFG. ¿QUÉ SE ESPERA DEL TRABAJO DE LOS ESTUDIANTES EN ESTA LÍNEA?
 
 Los siguientes puntos detallan lo que se espera de los estudiantes asignados a esta línea de TFG. Por la experiencia acumulada en cursos anteriores, es fundamental tener en cuenta estas cuestiones desde el inicio del cuatrimestre para cursar esta asignatura con éxito:
 
@@ -32,6 +32,6 @@ Además, para formular una buena hipótesis, es IMPRESCINDIBLE leer la literatur
 
 4. Una vez realizado este trabajo de lectura y estudio, se debe plantear una pregunta de investigación y una hipótesis. Tanto la pregunta de investigación como la hipótesis deben estar sustentadas en una revisión de los trabajos previos que justifiquen dicha pregunta e hipótesis. La propuesta de TFG que se debe entregar consiste, por lo tanto, básicamente en presentar una hipótesis que esté solidamente sustentantada en la revisión de la bibliografía. Ver al respecto los documentos de ayuda que se adjutan debajo.
 
-DOCUMENTOS DE AYUDA PARA LA ELABORACIÓN DEL TFG
+# DOCUMENTOS DE AYUDA PARA LA ELABORACIÓN DEL TFG
 
 Debajo encontraréis documentos útiles en la elaboración de vuestro TFG:
