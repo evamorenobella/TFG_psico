@@ -72,7 +72,7 @@ Todo estudiante que emplee herramientas de inteligencia artificial (IA) en cualq
   
 **Declaración de uso:** Además, cada estudiante deberá firmar un **documento de declaración del uso de IA** que será enviado por email a la profesora Eva Moreno Bella. Este documento confirmará que los resultados obtenidos han sido empleados de manera [ética](https://www.uned.es/universidad/inicio/institucional/areas-direccion/vicerrectorados/innovacion/iaeducativa.html) y en conformidad con estas normas. La profesora facilitará al alumnado este documento, el cual debe ser firmado por el/la estudiante antes de la fecha límite de entrega del TFG en la convocatoria correspondiente.
 
-### **Recursos para citas y referencias en formato APA**  
+### **Recursos para citas y referencias en formato [APA](https://normas-apa.org/)**  
 
 Podéis acceder a los tutoriales de la biblioteca de la UNED, donde encontraréis información sobre las [normas APA](https://www.youtube.com/watch?v=gTURFhZkoIs) y los [errores más frecuentes](https://www.youtube.com/watch?v=Hxagy2iZDng) al citar referencias.  
 
