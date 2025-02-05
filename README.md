@@ -22,14 +22,14 @@ Una vez realizado este trabajo de lectura y estudio, se debe plantear una pregun
 
 ## DOCUMENTOS DE AYUDA PARA LA ELABORACIÓN DEL TFG  
 
-Os habré mandado por email un par de documentos de ayuda para la elaboración del TFG  
+Os habré mandado por email un par de documentos de ayuda para la elaboración del TFG: "La Elaboración de Informes" y "La Formulación de Hipótesis". 
 
 ## BIBLIOGRAFÍA BÁSICA  
 
 Podéis descargar algunos de los artículos sobre desigualdad económica y percepción social en el repositorio de la [UNED](https://e-spacio.uned.es/entities/person/f6e40d0d-5a55-41dc-8125-497b2431c3c1) y en [Google Scholar](https://scholar.google.es/citations?user=gZF8-pUAAAAJ&hl=es). Debajo se incluyen una serie de artículos científicos que constituyen una primera base de lectura para esta línea de TFG. No obstante, los estudiantes deberán hacer una búsqueda sobre el tema concreto elegido empleando las herramientas de la Biblioteca de la UNED. También os recomiendo leer los capítulos introductorios de tesis sobre desigualdad económica.  
 
 ### Artículos recomendados:  
-
+**Desigualdad económica:**
 - [Buttrick & Oishi (2017)](https://doi.org/10.1111/spc3.12304)
 - [Del Fresno et al. (2021)](https://doi.org/10.1002/casp.2632)  
 - [García Castro et al. (2021)](https://doi.org/10.1016/j.jesp.2020.104019) 
@@ -41,6 +41,21 @@ Podéis descargar algunos de los artículos sobre desigualdad económica y perce
 - [Willis et al. (2022)](https://doi.org/10.1038/s44159-022-00044-0)
 - [Video CanalUNED. Los efectos psicosociales de la desigualdad económica: Un análisis del contenido de la percepción social](https://canal.uned.es/video/655f1cbd371fa00e163132e2) 
 - [Número Especial "La Psicología de la Desigualdad Económica y la Clase Social"](https://onlinelibrary.wiley.com/toc/1467839x/2022/25/1)
+
+**Percepción social**
+- [Abele et al. (2021)](https://dial.uclouvain.be/pr/boreal/object/boreal%3A272528/datastream/PDF_01/view)
+- [Abele & Wojciszke (2011)](https://www.academia.edu/download/43405474/Communal_and_Agentic_Content_in_Social_C20160305-15931-5u9rsa.pdf)
+- [Brambilla et al. (2011)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ejsp.744)
+- [Brambilla et al. (2021)](https://www.mbrambilla.com/wp-content/uploads/2021/07/Brambilla-et-al-2021-Advances.pdf)
+- [Fiske et al. (2002)](https://doi.org/10.1037/0022-3514.82.6.878)
+- [Koch et al. (2'16)](https://www.researchgate.net/profile/Alex-Koch-2/publication/303086913_The_ABC_of_Stereotypes_About_Groups_AgencySocioeconomic_Success_Conservative-Progressive_Beliefs_and_Communion/links/592fdf100f7e9beee761b0a8/The-ABC-of-Stereotypes-About-Groups-Agency-Socioeconomic-Success-Conservative-Progressive-Beliefs-and-Communion.pdf)
+
+**Collective Actions**
+- [Van Zomeren (2016)](https://doi.org/10.1111/pops.12322)
+- [Van Zomeren et al. (2011)](https://doi.org/10.1111/j.2044-8309.2010.02000.x)
+- [Van Zomeren et al. (2018)](https://doi.org/10.1080/10463283.2018.1479347)
+  
+
 
 ## Fechas importantes:
 **CONVOCATORIA DE JUNIO:**
