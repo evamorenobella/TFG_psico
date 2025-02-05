@@ -48,7 +48,7 @@ Podéis descargar algunos de los artículos sobre desigualdad económica y perce
 - [Brambilla et al. (2011)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ejsp.744)
 - [Brambilla et al. (2021)](https://www.mbrambilla.com/wp-content/uploads/2021/07/Brambilla-et-al-2021-Advances.pdf)
 - [Fiske et al. (2002)](https://doi.org/10.1037/0022-3514.82.6.878)
-- [Koch et al. (2'16)](https://www.researchgate.net/profile/Alex-Koch-2/publication/303086913_The_ABC_of_Stereotypes_About_Groups_AgencySocioeconomic_Success_Conservative-Progressive_Beliefs_and_Communion/links/592fdf100f7e9beee761b0a8/The-ABC-of-Stereotypes-About-Groups-Agency-Socioeconomic-Success-Conservative-Progressive-Beliefs-and-Communion.pdf)
+- [Koch et al. (2016)](https://www.researchgate.net/profile/Alex-Koch-2/publication/303086913_The_ABC_of_Stereotypes_About_Groups_AgencySocioeconomic_Success_Conservative-Progressive_Beliefs_and_Communion/links/592fdf100f7e9beee761b0a8/The-ABC-of-Stereotypes-About-Groups-Agency-Socioeconomic-Success-Conservative-Progressive-Beliefs-and-Communion.pdf)
 
 **Collective Actions**
 - [Van Zomeren (2016)](https://doi.org/10.1111/pops.12322)
