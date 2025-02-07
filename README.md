@@ -68,7 +68,7 @@ Podéis descargar algunos de los artículos sobre desigualdad económica y perce
 **CONVOCATORIA DE SEPTIEMBRE:**
 - Fecha límite entrega **PROPUESTA: 2 julio** (A través de Ágora)
 - Tutoría grupal para dudas (OPCIONAL): 14 julio (17:00 a 18:00). Se os enviará un enlace a Teams.
-- Fecha límite entrega TFG: 2 septiembre (A través de Ágora)
+- Fecha límite entrega **TFG: 2 septiembre** (A través de Ágora)
 
 **Las entregas se realizarán a través del curso virtual de la asignatura (ÁGORA)**
 
