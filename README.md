@@ -59,16 +59,16 @@ Podéis descargar algunos de los artículos sobre desigualdad económica y perce
 
 ## Fechas importantes:
 **CONVOCATORIA DE JUNIO:**
-- Fecha límite entrega PROPUESTA: 13 marzo
-- Tutoría grupal para dudas (OPCIONAL): 14 abril (17:00 a 18:00). Se os enviará un enlace a Teams.
-- Fecha límite entrega PROPUESTA (en caso de que no fuera aceptada en el plazo anterior): del 4 al 11 abril
-- Tutoría grupal para dudas (OPCIONAL. Sólo para aquellas personas que se les aceptara la propuesta en el segundo plazo): 28 abril (17:00 a 18:00). Se os enviará un enlace a Teams.
-- Fecha límite entrega TFG: 16 mayo
+- Fecha límite entrega **PROPUESTA: 13 marzo** (A través de Ágora)
+- Tutoría grupal para **dudas** (OPCIONAL): **14 abril (17:00 a 18:00)**. Se os enviará un enlace a Teams.
+- Fecha límite entrega *PROPUESTA (en caso de que no fuera aceptada en el plazo anterior)*: del 4 al 11 abril
+- Tutoría grupal para *dudas (OPCIONAL. Sólo para aquellas personas que se les aceptara la propuesta en el segundo plazo)*: 28 abril (17:00 a 18:00). Se os enviará un enlace a Teams.
+- Fecha límite **entrega TFG: 16 mayo** (A través de Ágora)
 
 **CONVOCATORIA DE SEPTIEMBRE:**
-- Fecha límite entrega PROPUESTA: 2 julio
+- Fecha límite entrega **PROPUESTA: 2 julio** (A través de Ágora)
 - Tutoría grupal para dudas (OPCIONAL): 14 julio (17:00 a 18:00). Se os enviará un enlace a Teams.
-- Fecha límite entrega TFG: 2 septiembre
+- Fecha límite entrega TFG: 2 septiembre (A través de Ágora)
 
 **Las entregas se realizarán a través del curso virtual de la asignatura (ÁGORA)**
 
